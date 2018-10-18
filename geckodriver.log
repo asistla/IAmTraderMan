@@ -1,0 +1,29 @@
+1539613932059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ARVIND~1\\AppData\\Local\\Temp\\rust_mozprofile.ZYJqqGhKFFNL"
+1539613941193	Marionette	INFO	Listening on port 61903
+1539613941804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539613941980	Marionette	DEBUG	[4294967297] Frame script loaded
+1539613942179	Marionette	DEBUG	[4294967297] Frame script registered
+1539613942218	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539613944211	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539613951915	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://in.investing.com/indices/msci-world-stock-historical-data
+1539613954766	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1539613954791	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1539613954808	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1539613955547	Marionette	DEBUG	[2147483652] Frame script loaded
+1539613955586	Marionette	DEBUG	[4294967325] Frame script loaded
+1539613956112	Marionette	DEBUG	[4294967325] Frame script registered
+1539613956273	Marionette	DEBUG	[2147483652] Frame script registered
+1539613969227	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://in.investing.com/indices/msci-world-stock-historical-data
+JavaScript error: https://contextual.media.net/fcmdynet.js?&cid=8CUQBB2U5&cpcd=7xRa5ccNXLLzdohX57nd7w%3D%3D&crid=441289839&size=641x481&cc=IN&https=1&vif=0&requrl=https%3A%2F%2Fwww.guru99.com%2Fxpath-selenium.html&kwrf=https%3A%2F%2Fwww.google.com&nse=3&vi=1539614150953403700&lw=1&ugd=4&insl=1, line 198: TypeError: _mNDetails._mNVI is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539614315687	Marionette	INFO	Stopped listening on port 61903
+[GPU 15028, Chrome_ChildThread] WARNING: pipe er[Parent 13792, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
