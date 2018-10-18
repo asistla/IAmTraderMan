@@ -1,21 +1,103 @@
-1539613457682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ARVIND~1\\AppData\\Local\\Temp\\rust_mozprofile.rYjthzb1HXnd"
-1539613464400	Marionette	INFO	Listening on port 61101
-1539613464519	Marionette	WARN	TLS certificate errors will be ignored for this session
-1539613464585	Marionette	DEBUG	[6442450945] Frame script loaded
-1539613464591	Marionette	DEBUG	[6442450945] Frame script registered
-1539613464665	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
-1539613467085	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
-1539613473979	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://in.investing.com/indices/msci-world-stock-historical-data
-1539613476690	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
-1539613476864	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
-1539613477321	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
-1539613482565	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://in.investing.com/indices/msci-world-stock-historical-data
-[Parent 13712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 12632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 12632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 13712, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
-[Parent 13712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1539613513010	Marionette	INFO	Stopped listening on port 61101
-[GPU 12296, C
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+1539848282910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ARVIND~1\\AppData\\Local\\Temp\\rust_mozprofile.RU8ZV7F8AYW2"
+1539848295460	Marionette	INFO	Listening on port 50125
+1539848295538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539848295612	Marionette	DEBUG	[6442450945] Frame script loaded
+1539848295624	Marionette	DEBUG	[6442450945] Frame script registered
+1539848296014	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539848299818	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539848304909	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://in.investing.com/indices/msci-world-stock-historical-data
+1539848306618	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539848306887	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539848307178	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1539848312417	Marionette	DEBU1539848335114	Marionette	DEBUG	[2147483652] Frame script loaded
+1539848335124	Marionette	DEBUG	[2147483652] Frame script registered
+1539848335184	Marionette	DEBUG	[4294967334] Frame script loaded
+1539848335185	Marionette	DEBUG	[4294967334] Frame script registered
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2530: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2530: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2529: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2529: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2530: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2530: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2530: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2530: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2530: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2530: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2530: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps/place/Mongolia/data=!4m2!3m1!1s0x3627050669aa6d4b:0xe0dd213937e6e096?sa=X&ved=2ahUKEwjKqeSLvo_eAhVGq48KHS24BZIQ8gEwJHoECAYQCw, line 2530: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+WARN: rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(89,32-87): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
 
+WARN: rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(214,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(215,32-88): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1631: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1631: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1539847965899	Marionette	INFO	Stopped listening on port 62374
